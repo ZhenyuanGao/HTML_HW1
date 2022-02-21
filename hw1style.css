@@ -1,0 +1,45 @@
+#age {
+  color: red;
+}
+#john {
+  text-align: center;
+}
+
+.address-book {
+  color: red;
+}
+
+#Matt-address {
+  text-align: right;
+}
+#john-phone {
+  color: green;
+}
+.Alex-phone {
+  font-size: 40px;
+  font-weight: 600;
+}
+
+.josh-phone {
+  font-size: 30px;
+  font-weight: 200;
+  font-style: italic;
+  color: blueviolet;
+}
+#Matt-phone {
+  background-color: purple;
+}
+table,
+th,
+td {
+  border: 10px solid yellowgreen;
+  border-collapse: collapse;
+}
+
+#round-border {
+  border-radius: 75px;
+  border: 2px solid black;
+  padding: 20px;
+  width: 800px;
+  height: 15px;
+}
